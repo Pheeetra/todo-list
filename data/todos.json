@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy some meat and fruit",
+      "completed": false
+    },
+    {
+      "id": "95b0c93f-76f6-4c82-8cd2-e0a0d7f0715d",
+      "text": "go to the gym",
+      "completed": false
+    }
+  ]
+}
